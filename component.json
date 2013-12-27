@@ -1,0 +1,16 @@
+{
+  "name": "visible",
+  "repo": "juliangruber/visible",
+  "description": "Check if the page is currently visible",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "yields/visibility": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
